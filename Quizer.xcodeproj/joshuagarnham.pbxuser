@@ -1,0 +1,308 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* QuizerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 546}}";
+			sepNavSelRange = "{174, 0}";
+			sepNavVisRange = "{0, 729}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* QuizerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1076, 3068}}";
+			sepNavSelRange = "{3713, 0}";
+			sepNavVisRange = "{3494, 802}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = AF1DAE3D1340EE2D00582C76 /* Quizer */;
+		activeTarget = 8D1107260486CEB800E47090 /* Quizer */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Quizer */,
+		);
+		breakpoints = (
+			AF1DAF96134233E400582C76 /* QuizerAppDelegate.m:121 */,
+			AF1DAF98134233FC00582C76 /* QuizerAppDelegate.m:135 */,
+			AF1DAF9A134233FF00582C76 /* QuizerAppDelegate.m:160 */,
+			AF1DAF9C1342340400582C76 /* QuizerAppDelegate.m:171 */,
+			AF1DAF9E1342340900582C76 /* QuizerAppDelegate.m:105 */,
+			AF1DAFA01342340900582C76 /* QuizerAppDelegate.m:106 */,
+			AF1DAFA21342341000582C76 /* QuizerAppDelegate.m:56 */,
+		);
+		codeSenseManager = AF1DAE471340EE4F00582C76 /* Code sense */;
+		executables = (
+			AF1DAE3D1340EE2D00582C76 /* Quizer */,
+			AF1DB01D134256B100582C76 /* Quizer-Windows */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					834,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					809,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 324148838;
+			PBXWorkspaceStateSaveDate = 324148838;
+		};
+		sourceControlManager = AF1DAE461340EE4F00582C76 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* Quizer */ = {
+		activeExec = 0;
+		executables = (
+			AF1DAE3D1340EE2D00582C76 /* Quizer */,
+		);
+	};
+	AF1DAE3D1340EE2D00582C76 /* Quizer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Quizer;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	AF1DAE461340EE4F00582C76 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	AF1DAE471340EE4F00582C76 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	AF1DAE891340F8CE00582C76 /* Quiz1.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 507}}";
+			sepNavSelRange = "{664, 1}";
+			sepNavVisRange = "{391, 272}";
+		};
+	};
+	AF1DAF96134233E400582C76 /* QuizerAppDelegate.m:121 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 256AC3D90F4B6AC300CF3369 /* QuizerAppDelegate.m */;
+		functionName = "-decreaseScore:";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 121;
+		location = Quizer;
+		modificationTime = 323106594.034482;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	AF1DAF98134233FC00582C76 /* QuizerAppDelegate.m:135 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 256AC3D90F4B6AC300CF3369 /* QuizerAppDelegate.m */;
+		functionName = "-proceedToNextQuestionWithAdditionOfScore:";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 135;
+		location = Quizer;
+		modificationTime = 323106619.583487;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	AF1DAF9A134233FF00582C76 /* QuizerAppDelegate.m:160 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 256AC3D90F4B6AC300CF3369 /* QuizerAppDelegate.m */;
+		functionName = "-proceedToNextQuestionWithAdditionOfScore:";
+		hitCount = 3;
+		ignoreCount = 0;
+		lineNumber = 160;
+		location = Quizer;
+		modificationTime = 323106612.769153;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	AF1DAF9C1342340400582C76 /* QuizerAppDelegate.m:171 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 256AC3D90F4B6AC300CF3369 /* QuizerAppDelegate.m */;
+		functionName = "-proceedToNextQuestionWithAdditionOfScore:";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 171;
+		location = Quizer;
+		modificationTime = 323106614.744801;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	AF1DAF9E1342340900582C76 /* QuizerAppDelegate.m:105 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 256AC3D90F4B6AC300CF3369 /* QuizerAppDelegate.m */;
+		functionName = "-resetTimer";
+		hitCount = 5;
+		ignoreCount = 0;
+		lineNumber = 105;
+		location = Quizer;
+		modificationTime = 323106621.047418;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	AF1DAFA01342340900582C76 /* QuizerAppDelegate.m:106 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 256AC3D90F4B6AC300CF3369 /* QuizerAppDelegate.m */;
+		functionName = "-resetTimer";
+		hitCount = 5;
+		ignoreCount = 0;
+		lineNumber = 106;
+		location = Quizer;
+		modificationTime = 323106621.868374;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	AF1DAFA21342341000582C76 /* QuizerAppDelegate.m:56 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 256AC3D90F4B6AC300CF3369 /* QuizerAppDelegate.m */;
+		functionName = "-loadQuestionsAndAnswersIntoInterface";
+		hitCount = 6;
+		ignoreCount = 0;
+		lineNumber = 56;
+		location = Quizer;
+		modificationTime = 323106622.497018;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	AF1DB00F134256B100582C76 /* Quizer-Windows */ = {
+		activeExec = 0;
+		executables = (
+			AF1DB01D134256B100582C76 /* Quizer-Windows */,
+		);
+	};
+	AF1DB01D134256B100582C76 /* Quizer-Windows */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Quizer-Windows";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+}

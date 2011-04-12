@@ -1,0 +1,39 @@
+Q:What is the square root of 64?
+A:8 [CORRECT]
+A:4
+A:12
+
+Q:What's your favourite OS?
+A:Linux
+A:Windows
+A:Mac [CORRECT]
+
+Q:What do you call this in HTML "<font></font>"?
+A:Tag [CORRECT]
+A:Parameter
+A:Divider
+
+Q:What do you call this in Objective-C [self doSomething]?
+A:Target
+A:Action 
+A:Method [CORRECT]
+
+Q:Where was the supposed birthplace of Jesus?
+A:Jerusalem
+A:Bethlehem [CORRECT]
+A:David's City
+
+Q:What was the name of the Nuclear Powerplant in Japan which was damaged?
+A:Hiroshima
+A:Nagasaki
+A:Fukushima [CORRECT]
+
+Q:What's the population of the world?
+A:7 Billion [CORRECT]
+A:10 Billion
+A: 12 Billion
+
+Q:b=2a^2  If a=1, what does b equal?
+A:2
+A:4 [CORRECT]
+A:8
